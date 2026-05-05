@@ -1,6 +1,6 @@
 package model;
 
-package com.example.orchestrator.model;
+
 
 public class CreditRequest {
     public String cedula;
